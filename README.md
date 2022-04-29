@@ -19,6 +19,8 @@
   <img align="center" alt="Rannael-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Rannael-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
 </div>
+<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://drive.google.com/file/d/1pxAc53mAxpP83oCI90tFMo04WmrvMrN_/view?usp=sharing">
+</div>
   
   ##
 <div>
