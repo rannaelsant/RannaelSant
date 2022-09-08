@@ -8,7 +8,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rannaelsant&show_icons=true&locale=en"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rannaelsant&layout=compact&langs_count=7&theme=merko=compact&hide=python"
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rannaelsant&" alt="rannaelsant" /></p>
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rannaelsant&theme=github_dark)
 
 </div>
 ##  Tecnologias
